@@ -9,6 +9,8 @@ by Zachary D. Rife, Liberty University (Independent Study)
 
 ## Overview
 
+ Breast cancer remains a leading cause of morbidity and mortality worldwide, with early detection and intervention widely recognized as pivotal to improving survival outcomes. However, current insurance reimbursement policies often restrict access to screening and preventive care unless specific statistical thresholds—such as incidence or risk-based eligibility criteria—are met. This limitation may delay diagnosis and treatment for at-risk individuals who fall outside narrowly defined parameters, potentially contributing to poorer prognoses. An exploratory data analysis of a public dataset involving breast cancer biomarkers underscores the critical importance of early identification and timely intervention. These findings highlight the public health imperative to re-evaluate coverage policies and promote broader access to screening and therapeutic services that can reduce disease burden and improve long-term patient outcomes. 
+
 This study investigates population-level breast cancer data to identify and evaluate key prognostic biomarkers. The modeling framework includes:
 
 - Kaplan–Meier survival estimation
